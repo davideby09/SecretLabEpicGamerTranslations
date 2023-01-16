@@ -1,7 +1,9 @@
 {
-  "Name": "English (default)",
+  "Name": "SecretLabEpicGamerTranslations",
   "Authors": [
-    "Northwood"
+    "Northwood",
+    "Creet1724",
+    "SCP-207"
   ],
   "InterfaceLocales": [
     "en-GB",
